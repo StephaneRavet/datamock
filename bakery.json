@@ -8,6 +8,10 @@
     "image": "https://raw.githubusercontent.com/konexio/digitous-assest/main/bakery/croissant.png"
   },
   {
+    "name": "cookie",
+    "image": "https://raw.githubusercontent.com/konexio/digitous-assest/main/bakery/cookie.png"
+  },
+  {
     "name": "coffee",
     "image": "https://raw.githubusercontent.com/konexio/digitous-assest/main/bakery/coffee.png"
   }
