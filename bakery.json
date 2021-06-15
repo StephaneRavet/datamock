@@ -1,0 +1,14 @@
+[
+  {
+    "name": "cake",
+    "image": "https://raw.githubusercontent.com/konexio/digitous-assest/main/bakery/cake.png"
+  },
+  {
+    "name": "croissant",
+    "image": "https://raw.githubusercontent.com/konexio/digitous-assest/main/bakery/croissant.png"
+  },
+  {
+    "name": "coffee",
+    "image": "https://raw.githubusercontent.com/konexio/digitous-assest/main/bakery/coffee.png"
+  }
+]
